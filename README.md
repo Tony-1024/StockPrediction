@@ -12,9 +12,9 @@ Haar Wavelet Denoising for Cloase Price:
 ![alt text](https://github.com/Tony-1024/StockPrediction/blob/master/charts/Close%20Denoising.jpg)
 ![alt text](https://github.com/Tony-1024/StockPrediction/blob/master/charts/Close%20Denoising-in%20one.jpg)
 
-Train the two models and make prediction. The results (Open/Close) are shown as below:
+Train the two models and make predictions. The results (Open/Close) are shown as below:
 
 ![alt text](https://github.com/Tony-1024/StockPrediction/blob/master/charts/Comparison.jpg)
 
-RMSE of the two models:
+RMSE (Root Mean Square) of the two models' prediction results:
 ![alt text](https://github.com/Tony-1024/StockPrediction/blob/master/charts/RMSE.jpg)
