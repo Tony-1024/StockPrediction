@@ -7,7 +7,7 @@ This code is for predicting stock price. The dataset is from the New York Stock 
 
 Then, implement the Neural Network with two ways: Conventional LSTM, and Wavelet+LSTM. 
 
-Haar Wavelet Denoising for Cloase Price:
+Haar Wavelet Denoising for Close Price:
 
 ![alt text](https://github.com/Tony-1024/StockPrediction/blob/master/charts/Close%20Denoising.jpg)
 ![alt text](https://github.com/Tony-1024/StockPrediction/blob/master/charts/Close%20Denoising-in%20one.jpg)
